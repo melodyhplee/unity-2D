@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{6E0C5DCE-DDAC-CA2C-034F-45292D3E70AC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="63" Column="38" />
+      <File FileName="Assets/Scripts/Spawner.cs" />
+      <File FileName="Assets/Scripts/SpawnPoint.cs" />
+      <File FileName="Assets/ButtonController.cs" />
+      <File FileName="Assets/Scripts/RepeaingBG.cs" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="29" Column="33" />
+      <File FileName="Assets/Scripts/Destroy.cs" />
+      <File FileName="Assets/Scripts/ScoreManager.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8a1cd712-0be5-4ac4-adb9-177335a9cdf4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/melodylee/CS Work/Unity/Endless Runner/Temp/UnityTempFile-b3e5157c7fabe4a21bc0b9af12607d8c" relfile="Temp/UnityTempFile-b3e5157c7fabe4a21bc0b9af12607d8c" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
